@@ -1,0 +1,6 @@
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Documentos\Freelancer\2024\01Aviacion\CapaNegocio\obj\Debug\CapaNegocio.pdb

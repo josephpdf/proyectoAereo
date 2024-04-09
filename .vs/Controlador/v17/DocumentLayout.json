@@ -3,39 +3,43 @@
   "WorkspaceRootPath": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|D:\\Documentos\\Freelancer\\2024\\01Aviacion\\controlador\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -51,6 +55,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Registrarse.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
+              "RelativeDocumentMoniker": "Controlador\\Registrarse.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
+              "RelativeToolTip": "Controlador\\Registrarse.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T19:58:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Login.aspx",
+              "RelativeDocumentMoniker": "Controlador\\Login.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Login.aspx",
+              "RelativeToolTip": "Controlador\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T20:13:37.641Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Error404.aspx",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\FormsError\\Error404.aspx",
               "RelativeDocumentMoniker": "Controlador\\FormsError\\Error404.aspx",
@@ -58,12 +91,11 @@
               "RelativeToolTip": "Controlador\\FormsError\\Error404.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T20:02:45.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T20:02:45.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Registrarse.aspx.cs",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx.cs",
               "RelativeDocumentMoniker": "Controlador\\Registrarse.aspx.cs",
@@ -71,12 +103,11 @@
               "RelativeToolTip": "Controlador\\Registrarse.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:59:37.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:59:37.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Controlador\\Login.aspx.cs",
@@ -84,25 +115,11 @@
               "RelativeToolTip": "Controlador\\Login.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:59:19.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:59:19.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Registrarse.aspx",
-              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
-              "RelativeDocumentMoniker": "Controlador\\Registrarse.aspx",
-              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
-              "RelativeToolTip": "Controlador\\Registrarse.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T19:58:43.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Registro.aspx",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registro.aspx",
               "RelativeDocumentMoniker": "Controlador\\Registro.aspx",
@@ -110,12 +127,11 @@
               "RelativeToolTip": "Controlador\\Registro.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T19:47:54.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:47:54.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Principal.aspx",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Principal.aspx",
               "RelativeDocumentMoniker": "Controlador\\Principal.aspx",
@@ -123,12 +139,11 @@
               "RelativeToolTip": "Controlador\\Principal.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T01:02:35.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T01:02:35.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Pagina.Master.cs",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master.cs",
               "RelativeDocumentMoniker": "Controlador\\Pagina.Master.cs",
@@ -136,12 +151,11 @@
               "RelativeToolTip": "Controlador\\Pagina.Master.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T01:00:51.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T01:00:51.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Pagina.Master",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master",
               "RelativeDocumentMoniker": "Controlador\\Pagina.Master",
@@ -149,12 +163,11 @@
               "RelativeToolTip": "Controlador\\Pagina.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-09T01:00:40.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T01:00:40.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "style.css",
               "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\css\\style.css",
               "RelativeDocumentMoniker": "Controlador\\css\\style.css",
@@ -162,8 +175,7 @@
               "RelativeToolTip": "Controlador\\css\\style.css",
               "ViewState": "AQIAAMgCAAAAAAAAAAAmwNECAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-09T00:49:06.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T00:49:06.307Z"
             }
           ]
         }
