@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\",
+  "WorkspaceRootPath": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\formserror\\error404.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\pagina.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\principal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|c:\\users\\hewlett packard\\music\\controladoraereo\\controlador\\controlador\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|d:\\documentos\\freelancer\\2024\\01aviacion\\controlador\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{685964A8-B167-4151-B01F-EFF87D627FDC}|Controlador\\Controlador.csproj|solutionrelative:controlador\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error404.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\FormsError\\Error404.aspx",
+              "RelativeDocumentMoniker": "Controlador\\FormsError\\Error404.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\FormsError\\Error404.aspx",
+              "RelativeToolTip": "Controlador\\FormsError\\Error404.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T20:02:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Registrarse.aspx.cs",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx.cs",
+              "RelativeDocumentMoniker": "Controlador\\Registrarse.aspx.cs",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx.cs",
+              "RelativeToolTip": "Controlador\\Registrarse.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:59:37.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Controlador\\Login.aspx.cs",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Login.aspx.cs",
+              "RelativeToolTip": "Controlador\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:59:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registrarse.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
+              "RelativeDocumentMoniker": "Controlador\\Registrarse.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registrarse.aspx",
+              "RelativeToolTip": "Controlador\\Registrarse.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T19:58:43.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registro.aspx",
+              "RelativeDocumentMoniker": "Controlador\\Registro.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Registro.aspx",
+              "RelativeToolTip": "Controlador\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T19:47:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Principal.aspx",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Principal.aspx",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Principal.aspx",
               "RelativeDocumentMoniker": "Controlador\\Principal.aspx",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Principal.aspx",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Principal.aspx",
               "RelativeToolTip": "Controlador\\Principal.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-06T23:34:30.915Z",
+              "WhenOpened": "2024-04-09T01:02:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina.Master.cs",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master.cs",
+              "RelativeDocumentMoniker": "Controlador\\Pagina.Master.cs",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master.cs",
+              "RelativeToolTip": "Controlador\\Pagina.Master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:00:51.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Styles\\style.css",
-              "RelativeDocumentMoniker": "Controlador\\Styles\\style.css",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Styles\\style.css",
-              "RelativeToolTip": "Controlador\\Styles\\style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-06T23:33:15.955Z",
+              "Title": "Pagina.Master",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master",
+              "RelativeDocumentMoniker": "Controlador\\Pagina.Master",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\Pagina.Master",
+              "RelativeToolTip": "Controlador\\Pagina.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-09T01:00:40.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pagina.Master",
-              "DocumentMoniker": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Pagina.Master",
-              "RelativeDocumentMoniker": "Controlador\\Pagina.Master",
-              "ToolTip": "C:\\Users\\Hewlett Packard\\Music\\controladorAereo\\Controlador\\Controlador\\Pagina.Master",
-              "RelativeToolTip": "Controlador\\Pagina.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-06T23:33:06.565Z",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\css\\style.css",
+              "RelativeDocumentMoniker": "Controlador\\css\\style.css",
+              "ToolTip": "D:\\Documentos\\Freelancer\\2024\\01Aviacion\\Controlador\\css\\style.css",
+              "RelativeToolTip": "Controlador\\css\\style.css",
+              "ViewState": "AQIAAMgCAAAAAAAAAAAmwNECAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-09T00:49:06.307Z",
               "EditorCaption": ""
             }
           ]

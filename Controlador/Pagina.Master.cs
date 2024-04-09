@@ -13,5 +13,22 @@ namespace Controlador
 		{
 
 		}
-	}
+
+        protected void btnInicioSesion_Click(object sender, EventArgs e)
+        {
+			//validacion de datos 
+			try 
+			{
+				Response.Redirect("Login.aspx");
+			}
+			catch (Exception ex) 
+			{
+				//error de mensaje que esta lanzando el sistema
+				Console.WriteLine(ex.Message);
+
+				Response.Redirect("Error.aspx");
+			
+			}
+        }
+    }
 }

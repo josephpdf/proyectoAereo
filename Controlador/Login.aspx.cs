@@ -13,5 +13,20 @@ namespace Controlador
 		{
 
 		}
-	}
+
+        protected void btnregistrarse_Click(object sender, EventArgs e)
+        {
+			try
+			{
+				// dirigirse a la pagina de registrarse
+                Response.Redirect("Registrarse.aspx");
+
+            }
+			catch (Exception ex) 
+			{
+				Console.WriteLine(ex.ToString());
+                Response.Redirect("Registrarse.aspx");
+            }
+        }
+    }
 }
