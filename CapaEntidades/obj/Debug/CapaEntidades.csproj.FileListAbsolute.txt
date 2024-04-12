@@ -4,3 +4,9 @@ D:\Documentos\Freelancer\2024\01Aviacion\CapaEntidades\obj\Debug\CapaEntidades.c
 D:\Documentos\Freelancer\2024\01Aviacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 D:\Documentos\Freelancer\2024\01Aviacion\CapaEntidades\obj\Debug\CapaEntidades.dll
 D:\Documentos\Freelancer\2024\01Aviacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

@@ -68,7 +68,7 @@
 					
 
 							<div class="container-login100-form-btn">
-								<asp:Button ID="btnLogin" CssClass="login100-form-btn" runat="server" Text="Iniciar Sesión" />
+								<asp:Button ID="btnLogin" CssClass="login100-form-btn" runat="server" Text="Iniciar Sesión" OnClick="btnLogin_Click" />
 								<%--<button class="login100-form-btn">
 									Login
 								</button>--%>

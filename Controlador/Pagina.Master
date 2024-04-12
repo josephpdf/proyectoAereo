@@ -78,7 +78,7 @@
                                 </div>
                                 <a href="about.html" class="nav-item nav-link">Galeria</a>
                                 <a href="about.html" class="nav-item nav-link">Sobre Nosotros</a>
-                                <a href="Contactenos.aspx" class="nav-item nav-link">Contactenos</a>
+                                <a href="Contacto.aspx" class="nav-item nav-link">Contactenos</a>
                             </div>
                             <div class="ms-auto d-none d-lg-block">
                             <a href="Login.aspx" class="btn btn-primary rounded-pill py-2 px-3">Iniciar Sesion</a>
@@ -307,7 +307,7 @@
                         <div class="col-lg-3 col-md-6">
                             <h4 class="text-white mb-4">Quick Links</h4>
                             <a class="btn btn-link" href="#">About Us</a>
-                            <a class="btn btn-link" href="#">Contact Us</a>
+                            <a class="btn btn-link" href="Contacto.aspx">Contacto</a>
                             <a class="btn btn-link" href="#">Our Services</a>
                             <a class="btn btn-link" href="#">Terms & Condition</a>
                             <a class="btn btn-link" href="Login.aspx">Support</a>

@@ -28,5 +28,10 @@ namespace Controlador
                 Response.Redirect("Registrarse.aspx");
             }
         }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

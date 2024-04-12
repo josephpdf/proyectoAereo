@@ -13,14 +13,24 @@ namespace CapaDatos
     {
         //***********************************************************
         // string de conexion de la base de datos 
-        static private string CadenaConexion = @"Data Source=tiusr12pl.cuc-carrera-ti.ac.cr\\MSSQLSERVER2019;Initial Catalog=ControladorAereoG8;User ID=controladorG8;Password=G8-1234cuc";
+        static private string CadenaConexion = @"Data Source=tiusr12pl.cuc-carrera-ti.ac.cr\MSSQLSERVER2019;User ID=controladorG8;Password=G8-1234cuc";
         public SqlConnection Conexion = new SqlConnection(CadenaConexion);
         
         //conexion para poder abrir la base de datos 
         public SqlConnection AbrirConexion()
         {
-            if (Conexion.State == ConnectionState.Closed)
+            try 
+            {
+            
+                if (Conexion.State == ConnectionState.Closed)
                 Conexion.Open();
+                
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Conexion.Dispose();
+            }
             return Conexion;
         }
         //***********************************************************
