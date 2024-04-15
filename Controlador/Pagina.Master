@@ -33,13 +33,13 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet"/>
+
+    <link href="css/table1.css" rel="stylesheet" />
     <%------------------------------------------------------------------------------------------------------------------%>
 </head>
 <body>
     <form id="form1" runat="server">
-        <%------------------------------------------------------------------------------------------------------------------%>
-        <%--header--%>
-        <%------------------------------------------------------------------------------------------------------------------%>
+        <%------------------------------------------------------------------------------------------------------------------%>        <%--header--%>        <%------------------------------------------------------------------------------------------------------------------%>
         <header>
             <div>
                 <img src="img/logo4.png" alt="Logo" id="logo" style="max-width: 100%;">
@@ -151,8 +151,7 @@
             </div>
             </div>
         <!-- Carousel End -->
-        <%------------------------------------------------------------------------------------------------------------------%>
-        <%--Tabla de vuelos--%> 
+        <%------------------------------------------------------------------------------------------------------------------%>        <%--Tabla de vuelos--%> 
         <section class="intro">
             <div class="container-fluid">
             <div class="bg-image h-100" style="background-image:url('img');">
@@ -163,76 +162,24 @@
                                 <div class="card shadow-2-strong" style="background-color: #f5f7fa;">
                                     <div class="card-body">
                                         <div class="table-responsive w-100">
-                                            <table class="table table-bordered mb-0">
-                                                <thead>
-
-                                                    <tr>
-                                                        <th scope="col">
-                                                            <div class="form-check">
-                                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-                                                            </div>
-                                                        </th>
-                                                        <tr>
-                                                            <th scope="col">Aerolínea</th>
-                                                            <th scope="col">Lugar de origen</th>
-                                                            <th scope="col">Lugar de destino</th>
-                                                            <th scope="col">Estado</th>
-                                                            <th scope="col">Hora de salida</th>
-                                                            <th scope="col">Hora de llegada</th>
-                                                            <th scope="col">Puerta de embarque</th>
-                                                    </tr>
-                                                </thead>
-                                                <tbody>
-                                                  <tr>
-                                                    <td>Aerolínea 1</td>
-                                                    <td>Nueva York</td>
-                                                    <td>Los Ángeles</td>
-                                                    <td>Salida</td>
-                                                    <td>08:00</td>
-                                                    <td>11:30</td>
-                                                    <td>A12</td>
-                                                      <td>
-                                                      <button type="button" class="btn btn-primary btn-sm px-3"><i class="fa fa-plane"></i> Reservar</button>
-                                                     </td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Aerolínea 2</td>
-                                                    <td>Los Ángeles</td>
-                                                    <td>Nueva York</td>
-                                                    <td>Llegada</td>
-                                                    <td>10:30</td>
-                                                    <td>14:00</td>
-                                                    <td>B4</td>
-                                                       <td>
-                                                         <button type="button" class="btn btn-primary btn-sm px-3"><i class="fa fa-plane"></i> Reservar</button>
-                                                       </td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Aerolínea 3</td>
-                                                    <td>Chicago</td>
-                                                    <td>San Francisco</td>
-                                                    <td>Salida</td>
-                                                    <td>12:15</td>
-                                                    <td>16:45</td>
-                                                    <td>C8</td>
-                                                    <td>
-                                                      <button type="button" class="btn btn-primary btn-sm px-3"><i class="fa fa-plane"></i> Reservar</button>
-                                                    </td>
-                                                  </tr>
-                                                  <tr>
-                                                    <td>Aerolínea 4</td>
-                                                    <td>San Francisco</td>
-                                                    <td>Chicago</td>
-                                                    <td>Llegada</td>
-                                                    <td>14:45</td>
-                                                    <td>18:30</td>
-                                                    <td>D15</td>
-                                                    <td>
-                                                      <button type="button" class="btn btn-primary btn-sm px-3"><i class="fa fa-plane"></i> Reservar</button>
-                                                    </td>
-                                                  </tr>
-                                                </tbody>
-                                            </table>
+                                            <asp:GridView Height="100px" CssClass="table" ID="gdvuelos" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Width="941px">
+                                                <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+                                                <Columns>
+                                                    
+                                                    <asp:CommandField ShowSelectButton="True" 
+                                                    ControlStyle-CssClass="btn btn-primary rounded-pill py-2 px-3" />
+                                                </Columns>
+                                                <EditRowStyle BackColor="#999999" />
+                                                <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+                                                <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+                                                <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
+                                                <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
+                                                <SelectedRowStyle BackColor="#E2DED6" Font-Bold="True" ForeColor="#333333" />
+                                                <SortedAscendingCellStyle BackColor="#E9E7E2" />
+                                                <SortedAscendingHeaderStyle BackColor="#506C8C" />
+                                                <SortedDescendingCellStyle BackColor="#FFFDF8" />
+                                                <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
+                                            </asp:GridView>
                                         </div>
                                     </div>
                                 </div>
@@ -243,8 +190,7 @@
             </div>
         </div>
         </section>
-        <%------------------------------------------------------------------------------------------------------------------%>
-        <%--Tarjetas--%> 
+        <%------------------------------------------------------------------------------------------------------------------%>        <%--Tarjetas--%> 
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">

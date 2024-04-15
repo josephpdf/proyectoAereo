@@ -34,7 +34,7 @@
     <div class="limiter">
 	<div class="container-login100">
 		<div class="wrap-login100">
-			<%-------------------------------------------------------------------%>
+            <%-------------------------------------------------------------------%>
 			<form id="form1" runat="server" class="login100-form validate-form">
 			  <span class="login100-form-title p-b-43">
 								Iniciar Sesion
@@ -42,15 +42,15 @@
 							
 							
 							<div class="wrap-input100 validate-input" data-validate = "email es requerido">
-								<asp:TextBox CssClass="input100"  ID="txtPassword" runat="server"></asp:TextBox>
-								<%--<input class="input100" type="text" name="Correo"/>--%>
+								<asp:TextBox CssClass="input100"  ID="txtEmail" runat="server"></asp:TextBox>
+                                <%--<input class="input100" type="text" name="Correo"/>--%>
 								<span class="focus-input100"></span>
 								<span class="label-input100">Email</span>
 							</div>
 							
 							
 							<div class="wrap-input100 validate-input" data-validate="Contraseña es requerido">
-								<%--<input class="input100" type="password" name="pass"/>--%>
+                                <%--<input class="input100" type="password" name="pass"/>--%>
 								<asp:TextBox CssClass="input100"  ID="txtpass" TextMode="Password" runat="server"></asp:TextBox>
 								<span class="focus-input100"></span>
 								<span class="label-input100">Contraseña</span>
@@ -69,10 +69,15 @@
 
 							<div class="container-login100-form-btn">
 								<asp:Button ID="btnLogin" CssClass="login100-form-btn" runat="server" Text="Iniciar Sesión" OnClick="btnLogin_Click" />
-								<%--<button class="login100-form-btn">
+                                <%--<button class="login100-form-btn">
 									Login
 								</button>--%>
 							</div>
+							
+							<div class="container-login100-form-btn">
+								<asp:Label ID="lblmsj" runat="server" Text="msj" Visible="false"></asp:Label>	
+							</div>
+
 							
 							<div class="text-center p-t-46 p-b-20">
 								<span class="txt2">
@@ -90,8 +95,7 @@
 								</a>
 							</div>
 			</form>
-			<%--fin del form--%>
-			<%-------------------------------------------------------------------%>
+            <%--fin del form--%>			<%-------------------------------------------------------------------%>
 			<div class="login100-more" style="background-image: url('img/login2.jpg');">
 			</div>
 		</div>

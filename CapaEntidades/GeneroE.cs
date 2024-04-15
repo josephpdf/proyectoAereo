@@ -9,6 +9,6 @@ namespace CapaEntidades
     public class GeneroE
     {
         public int IdGenero { get; set; }
-        public int GeneroT { get; set; }
+        public string GeneroT { get; set; }
     }
 }

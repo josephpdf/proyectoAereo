@@ -42,8 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContactoN.cs" />
+    <Compile Include="LoginN.cs" />
     <Compile Include="UsuariosN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VuelosN.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">

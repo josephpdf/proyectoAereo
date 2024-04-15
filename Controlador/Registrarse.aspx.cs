@@ -48,8 +48,10 @@ namespace Controlador
                 ue.Contrasena=txtContraseña.Text;
                 ue.idRol = 0;
                 ue.IdUsuario = 0;
-                ue.CodePais= Convert.ToInt32(DpPaises.SelectedItem);
-                ge.IdGenero= Convert.ToInt32(DPGenero.SelectedItem);
+                //metodo para traer el codigo del pais
+                ue.CodePais= personasN.BuscarCodigoPais(Pais);
+
+                ge.IdGenero= personasN.BuscarGenero(genero);
                 ue.accion = "1";
 
                 string msj = personasN.D_CatalogoUsuarios(ue);

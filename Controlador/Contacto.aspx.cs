@@ -39,7 +39,7 @@ namespace Controlador
                 contact.accion = "1";
 
                 // catalogo de enviar mensaje
-                string msj= cn.EnvioCorreo(contact);
+                msj= cn.EnvioCorreo(contact);
 
                 if (msj == "")
                 {

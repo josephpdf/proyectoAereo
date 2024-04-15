@@ -21,6 +21,7 @@ namespace CapaNegocio
         ConexionDB Conexion = new ConexionDB();
         
         GeneroE ge=new GeneroE();
+        PaisesE pe= new PaisesE();
         //*****************************************************************
         //metodos
         //metodo para cargar el genero
@@ -52,18 +53,62 @@ namespace CapaNegocio
             return dt;
         }
         #endregion
-
-
+        //*****************************************************************
+        //metodo para buscar el pais
+        #region BuscarCodigoPais
         public int BuscarCodigoPais(string Pais)
         {
-            return 0;
+
+            cmdPaises.Connection = Conexion.AbrirConexion();
+            cmdPaises = new SqlCommand("SPPaisXNombre", Conexion.Conexion);
+            cmdPaises.CommandType = CommandType.StoredProcedure;
+            cmdPaises.Parameters.Add(new SqlParameter("@CodigoPais", Pais));
+            SqlDataReader reader = cmdPaises.ExecuteReader();
+            while (reader.Read())
+            {
+                // Acceder a los datos del país
+                pe.CodePais = Convert.ToInt32(reader["CodePais"].ToString());
+
+                pe.IdPais = Convert.ToInt32(reader["IdPais"]);
+
+                pe.Cod_ISO_3166 = reader["Cod_ISO_3166"].ToString();
+
+                pe.Cod_ISO = reader["Cod_ISO"].ToString();
+
+                pe.NombrePais = reader["NombrePais"].ToString();
+
+                //Console.WriteLine($"CodePais: {pe.CodePais}, IdPais: {pe.IdPais}, Cod_ISO_3166: {pe.Cod_ISO_3166}, Cod_ISO: {pe.Cod_ISO}, NombrePais: {pe.NombrePais}");
+            }
+            reader.Close();
+            Conexion.CerrarConexion();
+            //devuelve el valor del pais.
+            return pe.CodePais;
         }
-
-
+        #endregion
+        //*****************************************************************
+        //metodo para buscar genero
+        #region BuscarGenero
         public int BuscarGenero(string Genero)
         {
-            return 0;
+            cmdPaises.Connection = Conexion.AbrirConexion();
+            cmdPaises = new SqlCommand("SP_GeneroXNombre", Conexion.Conexion);
+            cmdPaises.CommandType = CommandType.StoredProcedure;
+            cmdPaises.Parameters.Add(new SqlParameter("@TGenero", Genero));
+            SqlDataReader reader = cmdPaises.ExecuteReader();
+            while (reader.Read())
+            {
+
+                // Acceder a los datos del género
+                ge.IdGenero = Convert.ToInt32(reader["idGenero"]);
+                ge.GeneroT = reader["TGenero"].ToString();
+            }
+            reader.Close();
+            Conexion.CerrarConexion();
+
+            //devuelve el valor del pais.
+            return ge.IdGenero;
         }
+        #endregion
         //*****************************************************************
         //metodo para catalogo de usuarios
         // insertar - borrar y actualizar
