@@ -44,8 +44,6 @@ namespace Controlador
         protected void btnLogin_Click(object sender, EventArgs e)
         {
             //validacion de datos 
-            try
-            {
                 //variables asignadas
                 le.Email = txtEmail.Text;
                 le.password= txtpass.Text;
@@ -58,7 +56,7 @@ namespace Controlador
                 {
                     //metodo para buscar el rol del usuario
                     msj2 = LoginN.BuscarRol(le.Email);
-
+                    
                     // en caso de que no se encuentre en el sistema muestra un mensaje de error
                     if(msj2== "No usuario")
                     {
@@ -71,16 +69,21 @@ namespace Controlador
                         if (msj2 == "Administrador")
                         {
                             lblmsj.Visible = false;
+                            //metodo para guardar variables de sesion 
+                            //correo
+                            LoginN.GuardarVariableSesion("Correo", le.Email);
                             Response.Redirect("Admin.aspx");
                             //Response.Redirect("Admin.aspx");
                         }
-                        else if (msj2 != "Administrador" && msj2 != "")
+                        else if (msj2 != "Administrador" && msj2 != "Seleccione")
                         {
+                            LoginN.GuardarVariableSesion("Correo", le.Email);
                             lblmsj.Visible = false;
                             Response.Redirect("AdminUsuario.aspx");
                         }
                         else
                         {
+                            LoginN.GuardarVariableSesion("Correo", le.Email);
                             lblmsj.Visible = false;
                             Response.Redirect("AdminPasajero.aspx");
 
@@ -95,12 +98,6 @@ namespace Controlador
                     lblmsj.Text = "El usuario no esta registrado";
                 }
 
-            }
-            catch(Exception ex)
-            {
-                Limpiar();
-                Console.WriteLine (ex.ToString());
-            }
         }
 
         private void Limpiar()

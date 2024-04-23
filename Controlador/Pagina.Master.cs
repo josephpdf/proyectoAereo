@@ -40,5 +40,12 @@ namespace Controlador
         {
 
         }
+
+        protected void gdvuelos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+			int indexSeleccionado = gdvuelos.SelectedIndex+1;
+			v.variableCodigoVuelo("ID", indexSeleccionado);
+			Response.Redirect("Reservas.aspx");
+        }
     }
 }

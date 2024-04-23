@@ -67,9 +67,6 @@
                                 <a href="about.html" class="nav-item nav-link">Reservas</a>
                                 <a href="Contacto.aspx" class="nav-item nav-link">Contactenos</a>
                                 <a href="Perfil.aspx" class="nav-item nav-link">Perfil</a>
-                                <a>
-                                    <asp:Label ID="lblmsj" runat="server" Text="Label"></asp:Label>
-                                </a>
                             </div>
                             <div class="ms-auto d-none d-lg-block">
                             <a href="Login.aspx" class="btn btn-primary rounded-pill py-2 px-3">Cerrar Sesion</a>
@@ -79,7 +76,6 @@
                 </div>
             </div>
             <!-- Navbar End -->
-
         </header>
     </form>
 </body>

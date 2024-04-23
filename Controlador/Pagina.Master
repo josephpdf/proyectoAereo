@@ -162,7 +162,7 @@
                                 <div class="card shadow-2-strong" style="background-color: #f5f7fa;">
                                     <div class="card-body">
                                         <div class="table-responsive w-100">
-                                            <asp:GridView Height="100px" CssClass="table" ID="gdvuelos" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Width="941px">
+                                            <asp:GridView Height="100px" CssClass="table" ID="gdvuelos" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Width="941px" OnSelectedIndexChanged="gdvuelos_SelectedIndexChanged">
                                                 <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
                                                 <Columns>
                                                     

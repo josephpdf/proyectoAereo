@@ -9,6 +9,8 @@ using System.Data.SqlClient;
 using System.Data.Sql;
 using CapaEntidades;
 using System.Reflection.Emit;
+using System.Web.SessionState;
+using System.Web;
 namespace CapaNegocio
 {
     public class LoginN
@@ -77,5 +79,17 @@ namespace CapaNegocio
             return roles.Rol;
         }
         #endregion
+
+        // Método para guardar variables de sesión
+        public void GuardarVariableSesion(string email, object valor)
+        {
+            HttpContext.Current.Session[email] = valor;
+        }
+
+        // Método para obtener variables de sesión
+        public object ObtenerVariableSesion(string email)
+        {
+            return HttpContext.Current.Session[email];
+        }
     }
 }

@@ -10,3 +10,9 @@ D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.c
 D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.dll
 D:\Documentos\Freelancer\2024\02Aviacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.pdb
