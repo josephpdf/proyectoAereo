@@ -94,7 +94,7 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container text-center py-5">
-            <h1 class="display-2 text-white mb-4 animated slideInDown">Contact Us</h1>
+            <h1 class="display-2 text-white mb-4 animated slideInDown">Registro</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="Principal.aspx">Inicio</a></li>
@@ -110,12 +110,12 @@
 <div class="container-xxl py-5">
     <div class="container">
         <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-            <p class="fs-5 fw-medium text-primary">Contactanos</p>
+            <p class="fs-5 fw-medium text-primary">Registro</p>
             <h1 class="display-5 mb-5">Si tienes consultas, no dudes en contactarnos</h1>
         </div>
         <div class="row g-5">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                <h3 class="mb-4">Contactanos para brindarte la ayuda lo mas antes posible!!!</h3>
+                <h3 class="mb-4">Se parte de nuestro equipo</h3>
                     <div class="row g-3">
                         <div class="col-md-6">
                             <div class="form-floating">

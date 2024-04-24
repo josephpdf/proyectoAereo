@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaEntidades
 {
-    public  class ReservaE
+    public class ReservaE
     {
         public int idAerolinea { get; set; }
 

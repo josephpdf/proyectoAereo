@@ -16,3 +16,9 @@ C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\N
 C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\Olman Sánchez\OneDrive - COOPEALFARORUIZ R.L\Documentos\03 Proyectos\Nueva carpeta\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\andre\source\repos\controlador\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\andre\source\repos\controlador\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\andre\source\repos\controlador\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\controlador\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\controlador\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\andre\source\repos\controlador\CapaEntidades\obj\Debug\CapaEntidades.pdb
